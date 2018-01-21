@@ -4079,5 +4079,8 @@ font-size: 48px;
 .new_paragraph1 {
  font-family: 'Nixie One';
 font-size: 24px;
+font-style: italic;
+text-transform: lowercase;
+
 
 }
