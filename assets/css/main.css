@@ -1,5 +1,6 @@
 @import url(font-awesome.min.css);
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Nixie+One|Ubuntu');
+
 
 /*
 	Editorial by HTML5 UP
@@ -4065,4 +4066,9 @@
 
 .new_header {
  font-family: 'Ubuntu';	
+}
+
+.new_paragraph {
+ font-family: 'Nixie One';
+
 }
