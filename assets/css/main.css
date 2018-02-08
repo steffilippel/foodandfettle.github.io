@@ -2113,8 +2113,8 @@
 	}
 
 		a:hover {
-			border-bottom-color: #f56a6a;
-			color: #f56a6a !important;
+			border-bottom-color: #801515;
+			color: #801515 !important;
 		}
 
 			a:hover strong {
@@ -3988,7 +3988,7 @@
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #f56a6a;
+				color: #801515;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
