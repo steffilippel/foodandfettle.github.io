@@ -3492,7 +3492,7 @@
 
 			#main > .inner > section {
 				padding: 6em 0 4em 0 ;
-				border-top: solid 2px rgba(210, 215, 217, 0.75);
+				border-top: solid 0px rgba(210, 215, 217, 0.75);
 			}
 
 				#main > .inner > section:first-of-type {
