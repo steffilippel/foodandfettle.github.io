@@ -4098,7 +4098,8 @@ font-size: 38px;
 
 .new_paragraph2 {
  font-family: 'Ubuntu';
-font-style: Light 300;
+font-style: light;
+font-weight: 300;
 font-size: 18px;
 
 }
