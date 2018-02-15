@@ -3892,11 +3892,11 @@
 				-webkit-object-fit: cover;
 				-ms-object-fit: cover;
 				object-fit: cover;
-				-moz-object-position: center;
-				-webkit-object-position: center;
-				-ms-object-position: center;
-				object-position: center;
-				width: 100%;
+				-moz-object-position: left;
+				-webkit-object-position: left;
+				-ms-object-position: left;
+				object-position: left;
+				width: 60%;
 			}
 
 		@media screen and (orientation: portrait) {
